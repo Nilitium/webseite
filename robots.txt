@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Nilitium.github.io/webseite/sitemap.xml
