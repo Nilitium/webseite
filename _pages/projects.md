@@ -5,7 +5,7 @@ permalink: /projects/
 description: Events and lecture series organized with the d\carb future economy forum
 nav: true
 nav_order: 3
-display_categories: [events, lectures]
+display_categories: [lectures, events]
 # older event files that are replaced by the newer cards below (hidden from the overview)
 events_with_videos: [1_evidence_based_policy, 2_wahl_spezial, 3_critical_minerals, 4_green_innovation, 5_climate_resilient]
 ---
